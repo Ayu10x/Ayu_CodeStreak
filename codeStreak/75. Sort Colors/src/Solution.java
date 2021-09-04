@@ -1,3 +1,9 @@
+/*
+Time Complexity = O(N)
+Space Complexity = O(1)
+This problem is based on the Dutch National Flag (DNF) Algorithm
+*/
+
 public class Solution {
     public void sortColors(int[] nums) {
 
