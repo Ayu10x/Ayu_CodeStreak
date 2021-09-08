@@ -6,3 +6,4 @@
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/268.%20Missing%20Number/src/Solution.java) ||Easy||
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/7.%20Reverse%20Integer/src/Solution.java) ||Easy||
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/190.%20Reverse%20Bits/src/Solution.java) ||Easy||
+|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/13.%20Roman%20to%20Integer/src/Solution.java) ||Easy||
