@@ -10,3 +10,5 @@
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/27.%20Remove%20Element/src/Solution.java) ||Easy||
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/1480.%20Running%20Sum%20of%201d%20Array/src/com/ayu/Solution.java) ||Easy||
 |1512|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/1512.%20Number%20of%20Good%20Pairs/src/com/ayu/Solution.java) ||Easy||
+|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/88.%20Merge%20Sorted%20Array/src/Solution.java) ||Easy||
+|1137|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/1137.%20N-th%20Tribonacci%20Number/src/Solution.java) ||Easy||
