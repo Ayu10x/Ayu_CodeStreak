@@ -12,3 +12,5 @@
 |1512|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/1512.%20Number%20of%20Good%20Pairs/src/com/ayu/Solution.java) ||Easy||
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/88.%20Merge%20Sorted%20Array/src/Solution.java) ||Easy||
 |1137|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/1137.%20N-th%20Tribonacci%20Number/src/Solution.java) ||Easy||
+|1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/1089.%20Duplicate%20Zeros/src/Solution.java) ||Easy||
+|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/118.%20Pascal's%20Triangle/src/Solution.java) ||Easy||
