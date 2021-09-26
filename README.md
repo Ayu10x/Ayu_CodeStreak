@@ -14,3 +14,4 @@
 |1137|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/1137.%20N-th%20Tribonacci%20Number/src/Solution.java) ||Easy||
 |1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/1089.%20Duplicate%20Zeros/src/Solution.java) ||Easy||
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/118.%20Pascal's%20Triangle/src/Solution.java) ||Easy||
+|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/src/Solution.java) ||Easy||
