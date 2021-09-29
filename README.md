@@ -18,3 +18,4 @@
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array/src/Solution.java) ||Easy||
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/136.%20Single%20Number/src/Solution.java) ||Easy||
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/70.%20Climbing%20Stairs/src/Solution.java) ||Easy||
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/53.%20Maximum%20Subarray/src/Solution.java) ||Easy||
