@@ -19,3 +19,4 @@
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/136.%20Single%20Number/src/Solution.java) ||Easy||
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/70.%20Climbing%20Stairs/src/Solution.java) ||Easy||
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/53.%20Maximum%20Subarray/src/Solution.java) ||Easy||
+|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/141.%20Linked%20List%20Cycle/src/Solution.java) ||Easy||
