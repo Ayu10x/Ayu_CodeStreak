@@ -20,3 +20,5 @@
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/70.%20Climbing%20Stairs/src/Solution.java) ||Easy||
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/53.%20Maximum%20Subarray/src/Solution.java) ||Easy||
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/141.%20Linked%20List%20Cycle/src/Solution.java) ||Easy||
+|234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/234.%20Palindrome%20Linked%20List/src/Solution.java) ||Easy||
+|203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/203.%20Remove%20Linked%20List%20Elements/src/Solution.java) ||Easy||
