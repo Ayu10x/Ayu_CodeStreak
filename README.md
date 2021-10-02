@@ -22,3 +22,6 @@
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/141.%20Linked%20List%20Cycle/src/Solution.java) ||Easy||
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/234.%20Palindrome%20Linked%20List/src/Solution.java) ||Easy||
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/203.%20Remove%20Linked%20List%20Elements/src/Solution.java) ||Easy||
+|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/83.%20Remove%20Duplicates%20from%20Sorted%20List/src/Solution.java) ||Easy||
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/206.%20Reverse%20Linked%20List/src/Solution.java) ||Easy||
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/21.%20Merge%20Two%20Sorted%20Lists/src/Solution.java) ||Easy||
