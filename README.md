@@ -25,3 +25,5 @@
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/83.%20Remove%20Duplicates%20from%20Sorted%20List/src/Solution.java) ||Easy||
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/206.%20Reverse%20Linked%20List/src/Solution.java) ||Easy||
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/21.%20Merge%20Two%20Sorted%20Lists/src/Solution.java) ||Easy||
+|704|[Binary Search](https://leetcode.com/problems/binary-search/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/704.%20Binary%20Search/src/Solution.java) ||Easy||
+|744|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target/src/Solution.java) ||Easy||
