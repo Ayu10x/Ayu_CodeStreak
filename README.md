@@ -27,3 +27,5 @@
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/21.%20Merge%20Two%20Sorted%20Lists/src/Solution.java) ||Easy||
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/704.%20Binary%20Search/src/Solution.java) ||Easy||
 |744|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target/src/Solution.java) ||Easy||
+|108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/src/TreeNode.java) ||Easy||
+|46|[Permutations](https://leetcode.com/problems/permutations/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/46.%20Permutations/src/Solution.java) ||Medium||
