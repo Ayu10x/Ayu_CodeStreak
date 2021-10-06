@@ -31,3 +31,6 @@
 |46|[Permutations](https://leetcode.com/problems/permutations/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/46.%20Permutations/src/Solution.java) ||Medium||
 |1290|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer/src/ListNode.java) ||Easy||
 |897|[Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/897.%20Increasing%20Order%20Search%20Tree/src/Solution.java) ||Easy||
+|876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/876.%20Middle%20of%20the%20Linked%20List/src/ListNode.java) ||Easy||
+|01|[Two Sum](https://leetcode.com/problems/two-sum/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/1.%20Two%20Sum/src/Solution.java) ||Easy||
+|238|[Product of Array Except Self](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/238.%20Product%20of%20Array%20Except%20Self/src/Solution.java) ||Medium||
