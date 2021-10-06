@@ -33,4 +33,4 @@
 |897|[Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/897.%20Increasing%20Order%20Search%20Tree/src/Solution.java) ||Easy||
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/876.%20Middle%20of%20the%20Linked%20List/src/ListNode.java) ||Easy||
 |01|[Two Sum](https://leetcode.com/problems/two-sum/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/1.%20Two%20Sum/src/Solution.java) ||Easy||
-|238|[Product of Array Except Self](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/238.%20Product%20of%20Array%20Except%20Self/src/Solution.java) ||Medium||
+|238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/238.%20Product%20of%20Array%20Except%20Self/src/Solution.java) ||Medium||
