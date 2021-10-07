@@ -34,3 +34,5 @@
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/876.%20Middle%20of%20the%20Linked%20List/src/ListNode.java) ||Easy||
 |01|[Two Sum](https://leetcode.com/problems/two-sum/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/1.%20Two%20Sum/src/Solution.java) ||Easy||
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/238.%20Product%20of%20Array%20Except%20Self/src/Solution.java) ||Medium||
+|28|[Implement strStr](https://leetcode.com/problems/implement-strstr/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/28.%20Implement%20strStr()/src/Solution.java) ||Easy||
+|387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/387.%20First%20Unique%20Character%20in%20a%20String/src/Solution.java) ||Easy||
