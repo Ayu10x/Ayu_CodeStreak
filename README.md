@@ -36,3 +36,5 @@
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/238.%20Product%20of%20Array%20Except%20Self/src/Solution.java) ||Medium||
 |28|[Implement strStr](https://leetcode.com/problems/implement-strstr/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/28.%20Implement%20strStr()/src/Solution.java) ||Easy||
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/387.%20First%20Unique%20Character%20in%20a%20String/src/Solution.java) ||Easy||
+|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/24.%20Swap%20Nodes%20in%20Pairs/src/ListNode.java) ||Medium||
+|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/58.%20Length%20of%20Last%20Word/src/Solution.java) ||Easy||
