@@ -40,3 +40,5 @@
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/58.%20Length%20of%20Last%20Word/src/Solution.java) ||Easy||
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/39.%20Combination%20Sum/src/Solution.java) ||Medium||
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/35.%20Search%20Insert%20Position/src/Solution.java) ||Easy||
+|67|[Add Binary](https://leetcode.com/problems/add-binary/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/67.%20Add%20Binary/src/Solution.java) ||Easy||
+|62|[Unique Path](https://leetcode.com/problems/unique-paths/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/62.%20Unique%20Paths/src/Solution.java) ||Medium||
