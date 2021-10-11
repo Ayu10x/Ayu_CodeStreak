@@ -42,3 +42,5 @@
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/35.%20Search%20Insert%20Position/src/Solution.java) ||Easy||
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/67.%20Add%20Binary/src/Solution.java) ||Easy||
 |62|[Unique Path](https://leetcode.com/problems/unique-paths/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/62.%20Unique%20Paths/src/Solution.java) ||Medium||
+|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/49.%20Group%20Anagrams/src/Solution.java) ||Medium||
+|1486|[XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/1486.%20XOR%20Operation%20in%20an%20Array/src/Solution.java) ||Easy||
