@@ -44,3 +44,5 @@
 |62|[Unique Path](https://leetcode.com/problems/unique-paths/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/62.%20Unique%20Paths/src/Solution.java) ||Medium||
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/49.%20Group%20Anagrams/src/Solution.java) ||Medium||
 |1486|[XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/1486.%20XOR%20Operation%20in%20an%20Array/src/Solution.java) ||Easy||
+|237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/237.%20Delete%20Node%20in%20a%20Linked%20List/src/Solution.java) ||Easy||
+|1351|[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/src/Solution.java) ||Easy||
