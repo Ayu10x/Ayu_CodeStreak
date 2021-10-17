@@ -54,3 +54,5 @@
 |442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/442.%20Find%20All%20Duplicates%20in%20an%20Array/src/Solution.java) ||Medium||
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/73.%20Set%20Matrix%20Zeroes/src/Solution.java) ||Medium||
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/844.%20Backspace%20String%20Compare/src/Solution.java) ||Easy||
+|92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/92.%20Reverse%20Linked%20List%20II/src/ListNode.java) ||Medium||
+|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/19.%20Remove%20Nth%20Node%20From%20End%20of%20List/src/ListNode.java) ||Medium||
