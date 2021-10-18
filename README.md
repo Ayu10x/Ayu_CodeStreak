@@ -56,3 +56,5 @@
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/844.%20Backspace%20String%20Compare/src/Solution.java) ||Easy||
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/92.%20Reverse%20Linked%20List%20II/src/ListNode.java) ||Medium||
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/19.%20Remove%20Nth%20Node%20From%20End%20of%20List/src/ListNode.java) ||Medium||
+|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/22.%20Generate%20Parentheses/src/Solution.java) ||Medium||
+|77|[Combinations](https://leetcode.com/problems/combinations/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/77.%20Combinations/src/Solution.java) ||Medium||
