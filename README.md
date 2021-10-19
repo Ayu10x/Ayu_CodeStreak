@@ -58,3 +58,5 @@
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/19.%20Remove%20Nth%20Node%20From%20End%20of%20List/src/ListNode.java) ||Medium||
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/22.%20Generate%20Parentheses/src/Solution.java) ||Medium||
 |77|[Combinations](https://leetcode.com/problems/combinations/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/77.%20Combinations/src/Solution.java) ||Medium||
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/104.%20Maximum%20Depth%20of%20Binary%20Tree/src/TreeNode.java) ||Easy||
+|96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/96.%20Unique%20Binary%20Search%20Trees/src/Solution.java) ||Medium||
