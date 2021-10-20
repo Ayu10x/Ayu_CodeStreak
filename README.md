@@ -60,3 +60,5 @@
 |77|[Combinations](https://leetcode.com/problems/combinations/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/77.%20Combinations/src/Solution.java) ||Medium||
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/104.%20Maximum%20Depth%20of%20Binary%20Tree/src/TreeNode.java) ||Easy||
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/96.%20Unique%20Binary%20Search%20Trees/src/Solution.java) ||Medium||
+|120|[Triangle](https://leetcode.com/problems/triangle/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/120.%20Triangle/src/Solution.java) ||Medium||
+|100|[Same Tree](https://leetcode.com/problems/same-tree/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/100.%20Same%20Tree/src/TreeNode.java) ||Easy||
