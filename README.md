@@ -62,3 +62,5 @@
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/96.%20Unique%20Binary%20Search%20Trees/src/Solution.java) ||Medium||
 |120|[Triangle](https://leetcode.com/problems/triangle/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/120.%20Triangle/src/Solution.java) ||Medium||
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/100.%20Same%20Tree/src/TreeNode.java) ||Easy||
+|147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/147.%20Insertion%20Sort%20List/src/Solution.java) ||Medium||
+|148|[Sort List](https://leetcode.com/problems/sort-list/)|[Solution](https://github.com/Ayu10x/Ayu_CodeStreak/blob/main/codeStreak/148.%20Sort%20List/src/ListNode.java) ||Medium||
